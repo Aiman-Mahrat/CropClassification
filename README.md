@@ -11,7 +11,7 @@ The notebook is structured as follows:
 3. Importing Dataset + Upsampling: Details the process of loading the dataset and applying upsampling techniques to balance the classes.
 4. Modified ResNet34 Model: Describes the modifications made to the standard ResNet34 model to tailor it for crop damage assessment.
 5. Defining Image Generators: Covers the creation of image generators for training and validation datasets.
-6.Testing Model on a Test Dataset: Illustrates the process of evaluating the model's performance on a separate test dataset.
+6. Testing Model on a Test Dataset: Illustrates the process of evaluating the model's performance on a separate test dataset.
 
 ## Prerequisites
 To run this notebook, you will need a Python environment with Jupyter Notebook or JupyterLab installed. Additionally, the following Python libraries are required:
